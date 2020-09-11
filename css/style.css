@@ -1,0 +1,13 @@
+.main, .sub{
+ padding: 20px;
+ text-align: center;
+}
+
+.main{
+ cursor: pointer;
+}
+.sub{
+ background: #ddd;
+ display: none;
+}
+
